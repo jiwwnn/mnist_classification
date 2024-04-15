@@ -57,7 +57,7 @@ class CustomMLP(nn.Module):
             nn.Linear(36,10),
             nn.Softmax(dim=1)
         )
-    # Total Number of Parameters = 59450 + 1888 + 330 = 61668
+    # Total Number of Parameters = 59450 + 2124 + 370 = 61944
 
     def forward(self, img):
         img = img.reshape(-1, 32*32)
