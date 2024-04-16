@@ -10,5 +10,3 @@
 - CustomMLP
 <img src="https://github.com/jiwwnn/mnist_classification/assets/134251617/9a3696ff-30e2-408b-944c-410c0abd99b0.png"  width="700">
 
-- LeNet5_Regularized
-<img src="https://github.com/jiwwnn/mnist_classification/assets/134251617/021699fc-032a-41f3-a7d7-3bfffa230abc.png"  width="700">
