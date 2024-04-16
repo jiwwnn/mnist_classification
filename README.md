@@ -11,7 +11,12 @@
 <img src="https://github.com/jiwwnn/mnist_classification/assets/134251617/9a3696ff-30e2-408b-944c-410c0abd99b0.png"  width="700">
 
 ### 3. Comparing Performances of LeNet-5 and CustomMLP
-- Accuracy of LeNet-5 : 0.988
-- Accuracy of CustomMLP : 0.970
+- Result : LeNet-5 > CustomMLP for test accuracy
+  - Accuracy of LeNet-5 : 0.988 
+  - Accuracy of CustomMLP : 0.970
 
-  
+### 4. Improving LeNet-5 using regularization techniques
+- Methods 
+  - Dropout 
+  - Batch Normalization
+- Result : got accuracy 0.990, which is higher than the original LeNet-5 (+0.02)
