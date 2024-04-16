@@ -7,11 +7,8 @@
 - LeNet5
 <img src="https://github.com/jiwwnn/mnist_classification/assets/134251617/64fc400a-51b7-483f-bb13-29fbf2f3054f.png"  width="700">
 
-![LeNet5](https://github.com/jiwwnn/mnist_classification/assets/134251617/64fc400a-51b7-483f-bb13-29fbf2f3054f)
-
 - CustomMLP
-![CustomMLP](https://github.com/jiwwnn/mnist_classification/assets/134251617/9a3696ff-30e2-408b-944c-410c0abd99b0)
+<img src="https://github.com/jiwwnn/mnist_classification/assets/134251617/9a3696ff-30e2-408b-944c-410c0abd99b0.png"  width="700">
 
 - LeNet5_Regularized
-![LeNet5_Regularized](https://github.com/jiwwnn/mnist_classification/assets/134251617/021699fc-032a-41f3-a7d7-3bfffa230abc)
-
+<img src="https://github.com/jiwwnn/mnist_classification/assets/134251617/021699fc-032a-41f3-a7d7-3bfffa230abc.png"  width="700">
