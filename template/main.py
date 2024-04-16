@@ -88,7 +88,7 @@ def train(model, trn_loader, device, criterion, optimizer):
     plt.ylabel('Loss')
     
     plt.tight_layout()
-    plt.savefig('LeNet5_Result.png')
+    plt.savefig('LeNet5.png')
 
     return trn_loss, acc
 
