@@ -5,7 +5,7 @@
 
 ### 2. Plots of average loss and accuracy
 - LeNet5
-![LeNet5](https://github.com/jiwwnn/mnist_classification/assets/134251617/29ed676e-a0be-4299-80c1-1ff636a889ab)
+<img src="https://github.com/jiwwnn/mnist_classification/assets/134251617/29ed676e-a0be-4299-80c1-1ff636a889ab.png" width="700>
 
 - CustomMLP
 ![CustomMLP](https://github.com/jiwwnn/mnist_classification/assets/134251617/9a3696ff-30e2-408b-944c-410c0abd99b0)
