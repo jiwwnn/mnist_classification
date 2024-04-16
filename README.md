@@ -19,4 +19,4 @@
 - Methods 
   - Dropout (0.2)
   - Batch Normalization
-- Result : got accuracy 0.990, which is higher than the original LeNet-5 (+0.002)
+- Result : got test accuracy 0.990, which is higher than the original LeNet-5 (+0.002)
