@@ -12,11 +12,11 @@
 
 ### 3. Comparing performances of LeNet-5 and CustomMLP
 - Result : LeNet-5 > CustomMLP 
-  - Test Accuracy of LeNet-5 : 0.988 
+  - Test Accuracy of LeNet-5 : 0.987 
   - Test Accuracy of CustomMLP : 0.970
 
 ### 4. Improving LeNet-5 using regularization techniques
 - Methods 
   - Dropout (0.2)
   - Batch Normalization
-- Result : got test accuracy 0.990, which is higher than the original LeNet-5 (+0.002)
+- Result : got test accuracy 0.990, which is higher than the original LeNet-5 (+0.003)
