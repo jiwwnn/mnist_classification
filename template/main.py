@@ -68,28 +68,24 @@ def train(model, trn_loader, device, criterion, optimizer):
     plt.title('Train Loss')
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
-    plt.xlim(1, 60)
     
     plt.subplot(2, 2, 2)
     plt.plot(trn_acc_lst)
     plt.title('Train Accuracy')
     plt.xlabel('Epoch')
     plt.ylabel('Accuracy')
-    plt.xlim(1, 60)
     
     plt.subplot(2, 2, 3)
     plt.plot(val_loss_lst)
     plt.title('Validation Loss')
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
-    plt.xlim(1, 60)
     
     plt.subplot(2, 2, 4)
     plt.plot(val_acc_lst)
     plt.title('Validation Accuracy')
     plt.xlabel('Epoch')
     plt.ylabel('Accuracy')
-    plt.xlim(1, 60)
     
     plt.tight_layout()
     plt.savefig('LeNet5.png')
