@@ -5,5 +5,5 @@
 - the method of computation : {(32x32xa)+a} + {(axb)+b} + {(bx10)+10} ≒ 61,706 
 ### 2. Plots of average loss and accuracy
 - LeNet5
-img width="700" ![LeNet5](https://github.com/jiwwnn/mnist_classification/assets/134251617/4f10c973-574f-4613-bdce-b0924a3ef00f)
+<img width="700" alt=LeNet5" src=https://github.com/jiwwnn/mnist_classification/assets/134251617/4f10c973-574f-4613-bdce-b0924a3ef00f">
 
