@@ -11,7 +11,7 @@
 <img src=".png"  width="600">
 
 ### 3. Comparing performances of LeNet-5 and CustomMLP
-- Result : LeNet-5 > CustomMLP 
+- Result : LeNet-5 > CustomMLP (Test Accuracy)
   - Test Accuracy of LeNet-5 : 0.987 
   - Test Accuracy of CustomMLP : 0.970
 
